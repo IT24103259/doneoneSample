@@ -1,0 +1,5 @@
+Yasas,yasas@gmail.com,suzuki intruder,2800.0,5,14000.0,yasas,**** **** **** 9123,1212
+dineth,dineth@gmail.com,Yamaha fz v2,2000.0,8,16000.0,dineth,**** **** **** 5689,2356
+thaweesha,thaweesha@gmail.com,Yamaha fz v2,2000.0,5,10000.0,thaweesha,**** **** **** 4123,7896
+thaweesha,thaweesha@gmail.com,suzuki intruder,2800.0,12,33600.0,thaweesha,**** **** **** 6321,1236
+thaweesha,thaweesha@gmail.com,Yamaha fz v2,2000.0,20,40000.0,thaweesha,**** **** **** 2598,2589
