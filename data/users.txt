@@ -4,3 +4,4 @@ U1747642476857,thaweesha,thaweesha,thaweesha@gmail.com,customer
 U1747691448995,chanul,chanul,chanul@gmail.com,driver
 U999,admin123,adminpass,admin@email.com,admin
 U1747737203312,milakshi,milakshi,milakshi@gmail.com,driver
+U1747752568853,anu,anu,anu@gmail.com,customer

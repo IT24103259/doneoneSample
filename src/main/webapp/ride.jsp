@@ -77,6 +77,9 @@
     <div class="text-center mt-4">
       <a href="my_rides.jsp" class="btn btn-outline-warning">📋 My Booked Rides</a>
     </div>
+    <div class="text-center mt-5">
+      <a href="index.jsp" class="btn btn-outline-warning">← Back to Home</a>
+    </div>
 
   </form>
 </div>

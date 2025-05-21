@@ -102,6 +102,9 @@
         <a href="booking.jsp?email=<%= currentEmail %>" class="btn btn-outline-light">⬅ Back to Booking</a>
     </div>
 </div>
+<div class="text-center mt-5">
+    <a href="index.jsp" class="btn btn-outline-warning">← Back to Home</a>
+</div>
 
 </body>
 </html>

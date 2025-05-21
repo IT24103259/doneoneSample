@@ -1,3 +1,4 @@
 2345,suzuki intruder,2800.0,Available
 1234,Yamaha fz v2,2000.0,Available
 5641,bajaj CT100,1500.0,Available
+1235,kawasaki R1,4500.0,Available

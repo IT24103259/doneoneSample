@@ -147,6 +147,9 @@
         <div class="text-center mt-3">
             <a href="my_bookings.jsp?email=<%= email %>" class="btn btn-outline-warning">📋 My Bookings</a>
         </div>
+        <div class="text-center mt-5">
+            <a href="index.jsp" class="btn btn-outline-warning">← Back to Home</a>
+        </div>
     </form>
 </div>
 
